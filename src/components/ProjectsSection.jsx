@@ -9,7 +9,7 @@ const ProjectsSection = () => {
       description:
         "A responsive, dynamic portfolio built with React, Tailwind CSS, and deployed via Vercel. It showcases my skills, projects, and resume with smooth animations and optimized performance.",
       image: "/Projects/Portfolio.png",
-      githubUrl: "#",
+      githubUrl: "https://github.com/NikhileshChinta/Nikhilesh_Portfolio-React",
       skills: ["React", "Tailwind CSS", "Vite"],
     },
     {
